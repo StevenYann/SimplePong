@@ -1,5 +1,5 @@
 '''
-finalproject_StevenYan.py
+SimplePong.py
 Steven Yan
 21/12/2017 11:32:21
 v1.2
